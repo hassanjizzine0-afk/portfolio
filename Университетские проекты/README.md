@@ -1,1 +1,2 @@
 
+5-DOF робот, ROS, SLAM, AMR, MATLAB
