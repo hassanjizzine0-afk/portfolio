@@ -64,6 +64,5 @@
 
 ## 📫 Контакты
 
-- **Email:** [ваш email]
-- **GitHub:** [ссылка на GitHub]
-- **Telegram:** [ваш Telegram]
+- **Email:
+- hassanjizzine0@gmail.com
