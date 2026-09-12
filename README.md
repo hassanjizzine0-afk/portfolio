@@ -64,5 +64,4 @@
 
 ## 📫 Контакты
 
-- **Email:
-- hassanjizzine0@gmail.com
+- **Email:hassanjizzine0@gmail.com
