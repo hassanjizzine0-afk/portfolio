@@ -40,6 +40,15 @@
 <img width="334" height="418" alt="VFD" src="https://github.com/user-attachments/assets/eef32ff7-9d20-4219-a2eb-729e7bcf84fe" />
 <img width="1007" height="651" alt="Практика 1" src="https://github.com/user-attachments/assets/680151e7-cceb-48ad-845f-cc1aadda1f8d" />
 
+
+
+
+
+
+
+
+
+
 ---
 
 ### 2. Щит управления насосом с Soft Starter (устройство плавного пуска)
