@@ -223,7 +223,7 @@ https://github.com/user-attachments/assets/81a3c3f3-e4e3-4b23-a534-e3cdc967f56e
 
 **Что уже реализовано:**
 - Перепрошивка контроллера через **ST-Link V2**
-- Управление через **RC-пульт** (RadioMaster TX12 + TBS Nano, протокол CRSF)
+- Управление через **RC-пульт** (RadioMaster TX12 + TBS Nano, протокол CRSF по UART)
 - Двунаправленная телеметрия
 
 **Что в разработке (этот семестр):**
@@ -237,14 +237,14 @@ https://github.com/user-attachments/assets/81a3c3f3-e4e3-4b23-a534-e3cdc967f56e
 
 | Компонент | Характеристики |
 |-----------|----------------|
-| **Моторы** | BLDC с датчиками Холла, 36 В |
+| **Моторы** | BLDC, 36 В (Hall-сенсоры есть, но FOC работает по току) |
 | **Контроллер** | GD32F103 (оригинальная плата hoverboard) |
 | **Прошивка** | `EFeru/hoverboard-firmware-hack-FOC` (FOC-управление) |
 | **Программатор** | ST-Link V2 (SWD) |
 | **Батарея** | 36 В (оригинальная от hoverboard) |
 | **Пульт** | RadioMaster TX12 (EdgeTX) |
 | **Приёмник** | TBS Nano (Crossfire Nano RX) |
-| **Протокол RC** | CRSF (UART, двунаправленный, с телеметрией) |
+| **Протокол RC** | **CRSF (UART, двунаправленный, с телеметрией)** |
 
 ---
 
@@ -252,8 +252,10 @@ https://github.com/user-attachments/assets/81a3c3f3-e4e3-4b23-a534-e3cdc967f56e
 
 | Способ | Цель | Прошивка | Железо |
 |--------|------|----------|--------|
-| **RC-управление** (реализовано) | Управление с пульта | `VARIANT_PPM` / `VARIANT_PWM` | RadioMaster TX12 + TBS Nano |
-| **ROS2-управление** (в разработке) | Команды скорости от Raspberry Pi | `VARIANT_USART` | USB-to-TTL + Raspberry Pi 4 |
+| **RC-управление** (реализовано) | Управление с пульта | **`VARIANT_USART`** (CRSF) | RadioMaster TX12 + TBS Nano |
+| **ROS2-управление** (в разработке) | Команды скорости от Raspberry Pi | **`VARIANT_USART`** | USB-to-TTL + Raspberry Pi 4 |
+
+> ⚠️ **Важно:** PPM/PWM не используются. Ваш TBS Nano работает по CRSF (цифровой UART-протокол), поэтому в обоих случаях применяется `VARIANT_USART`.
 
 ---
 
@@ -264,7 +266,7 @@ https://github.com/user-attachments/assets/81a3c3f3-e4e3-4b23-a534-e3cdc967f56e
 3. **Подключил RC-управление:**
    - RadioMaster TX12 (EdgeTX)
    - TBS Nano (Crossfire Nano RX)
-   - Протокол CRSF по UART
+   - Протокол **CRSF по UART** (`VARIANT_USART`)
 4. **Проверил телеметрию** в двунаправленном режиме
 5. **Собрал платформу** (рама, моторы, контроллер, батарея)
 
@@ -285,13 +287,13 @@ https://github.com/user-attachments/assets/81a3c3f3-e4e3-4b23-a534-e3cdc967f56e
 
 ## 🛠️ Технологии
 
-| Технология | |
-|------------|---|
+| Технология | Статус |
+|------------|--------|
 | GD32F103 | ✅ |
 | ST-Link V2 | ✅ |
 | PlatformIO (VS Code) | ✅ |
 | FOC (Field Oriented Control) | ✅ |
-| CRSF (RC-протокол) | ✅ |
+| CRSF (RC-протокол, UART) | ✅ |
 | EdgeTX (пульт) | ✅ |
 | ROS2 Humble | 🔧 в процессе |
 | Raspberry Pi 4 | 🔧 в процессе |
@@ -304,7 +306,7 @@ https://github.com/user-attachments/assets/81a3c3f3-e4e3-4b23-a534-e3cdc967f56e
 ## 📈 Результат (текущий)
 
 - ✅ Перепрошитый hoverboard-контроллер
-- ✅ Управление с RC-пульта (CRSF)
+- ✅ Управление с RC-пульта (CRSF по UART)
 - ✅ Работающая телеметрия
 - 🔧 В процессе: ROS2, SLAM, автономная навигация
 
