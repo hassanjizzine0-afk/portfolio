@@ -340,7 +340,7 @@ https://github.com/user-attachments/assets/81a3c3f3-e4e3-4b23-a534-e3cdc967f56e
 
 
 
-<img width="968" height="1070" alt="i (5)" src="https://github.com/user-attachments/assets/445f8111-01e4-4adf-8229-28218d3425c2" />
+<img width="500" height="500" alt="i (5)" src="https://github.com/user-attachments/assets/445f8111-01e4-4adf-8229-28218d3425c2" />
 
 
 **Тип:** Учебно-исследовательский проект  
