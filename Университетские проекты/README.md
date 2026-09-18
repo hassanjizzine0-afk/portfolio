@@ -446,6 +446,12 @@ https://github.com/user-attachments/assets/81a3c3f3-e4e3-4b23-a534-e3cdc967f56e
 
 ---
 
+https://github.com/user-attachments/assets/46e2dc98-79e8-42c5-923e-9e6768f43c3b
+
+
+---
+
+
 ### 🎯 Краткое описание
 
 Реализован **алгоритм SLAM (Simultaneous Localization and Mapping)** с использованием **LiDAR RPLIDAR A1** в среде **ROS Noetic**. Робот строит карту помещения в реальном времени **без одометрии** — только на основе данных сканирования (scan matching).
