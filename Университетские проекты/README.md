@@ -47,11 +47,18 @@ https://github.com/user-attachments/assets/81a3c3f3-e4e3-4b23-a534-e3cdc967f56e
 | **Связь** | Python + PySerial | Запуск MATLAB, передача данных на Arduino |
 | **Нижний** | Arduino Uno | PID-управление моторами, чтение энкодеров |
 
+<img width="400" height="200" alt="i (7)" src="https://github.com/user-attachments/assets/8f9a77d9-f76c-406b-ac71-049972e7cb99" />
+
+
 ---
 
 ### 🔄 Рабочий процесс
 
 1. **Ввод:** Пользователь задаёт N точек (X, Y, Z + углы α, β, γ) через GUI.
+
+<img width="400" height="200" alt="i (7)" src="https://github.com/user-attachments/assets/8f9a77d9-f76c-406b-ac71-049972e7cb99" />
+
+
 2. **Расчёт:** MATLAB вычисляет углы Q1–Q5, строит гладкую траекторию (pchip), проверяет сингулярности.
 3. **Визуализация:** Python показывает 3D-график траектории.
 4. **Передача:** Python отправляет углы на Arduino через Serial (115200 бод).
