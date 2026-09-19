@@ -124,7 +124,7 @@
 
 
 ---
-# 🛹 Hoverboard Robot Control System (AMR)
+## Hoverboard Robot Control System (AMR)
 
 
 **Тип:** Инженерный проект  
@@ -256,7 +256,7 @@
 
 
 
-## Hoverboard Robot Control System (AMR)
+## 5-DOF Parallel Robot Control System
 
 **Тип:** Курсовой проект, МГТУ им. Н.Э. Баумана  
 **Роль:** Разработка системы управления (GUI + MATLAB + Arduino)  
