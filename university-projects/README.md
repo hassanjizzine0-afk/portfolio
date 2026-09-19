@@ -256,7 +256,7 @@
 
 
 
-## 5-DOF Parallel Robot Control System
+## Hoverboard Robot Control System (AMR)
 
 **Тип:** Курсовой проект, МГТУ им. Н.Э. Баумана  
 **Роль:** Разработка системы управления (GUI + MATLAB + Arduino)  
@@ -373,7 +373,7 @@ https://github.com/user-attachments/assets/81a3c3f3-e4e3-4b23-a534-e3cdc967f56e
 
 
 
- ## SLAM с RPLIDAR A1 и Hector SLAM
+## Симуляция AMR в ROS Noetic + Gazebo
 
 
 
@@ -479,7 +479,7 @@ https://github.com/user-attachments/assets/81a3c3f3-e4e3-4b23-a534-e3cdc967f56e
 
 
 
-## slam-с-rplidar-a1-и-hector-slam
+## SLAM с RPLIDAR A1 и Hector SLAM
 
 **Тип:** Исследовательский проект  
 **Роль:** Интеграция LiDAR, настройка SLAM, визуализация  
