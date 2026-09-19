@@ -255,7 +255,7 @@
 
 
 
-##  5-DOF Parallel Robot Control System
+##  5-dof-parallel-robot-control-system
 
 **Тип:** Курсовой проект, МГТУ им. Н.Э. Баумана  
 **Роль:** Разработка системы управления (GUI + MATLAB + Arduino)  
@@ -372,7 +372,7 @@ https://github.com/user-attachments/assets/81a3c3f3-e4e3-4b23-a534-e3cdc967f56e
 
 
 
-##  Симуляция AMR в ROS Noetic + Gazebo
+##  симуляция-amr-в-ros-noetic--gazebo
 
 
 
@@ -477,7 +477,7 @@ https://github.com/user-attachments/assets/81a3c3f3-e4e3-4b23-a534-e3cdc967f56e
 
 
 
-## SLAM с RPLIDAR A1 и Hector SLAM
+## slam-с-rplidar-a1-и-hector-slam
 
 **Тип:** Исследовательский проект  
 **Роль:** Интеграция LiDAR, настройка SLAM, визуализация  
