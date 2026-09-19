@@ -8,7 +8,8 @@
 | 2 | Hoverboard Robot Control System (AMR) | [→ Перейти](#-hoverboard-robot-control-system-amr) |
 | 3 | 5-DOF Parallel Robot Control System | [→ Перейти](#-5-dof-parallel-robot-control-system) |
 | 4 | Симуляция AMR в ROS Noetic + Gazebo | [→ Перейти](#-симуляция-amr-в-ros-noetic--gazebo) |
-| 5 | SLAM с RPLIDAR A1 и Hector SLAM | [→ Перейти](#-slam-с-rplidar-a1-и-hector-slam) |
+| 5 | SLAM с RPLIDAR A1 и Hector SLAM | [→ Перейти](#slam-с-rplidar-a1-и-hector-slam)
+ |
 
 ---
 
@@ -372,7 +373,8 @@ https://github.com/user-attachments/assets/81a3c3f3-e4e3-4b23-a534-e3cdc967f56e
 
 
 
-##  симуляция-amr-в-ros-noetic--gazebo
+ ## SLAM с RPLIDAR A1 и Hector SLAM
+
 
 
 
