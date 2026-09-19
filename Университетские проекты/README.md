@@ -223,7 +223,6 @@ https://github.com/user-attachments/assets/81a3c3f3-e4e3-4b23-a534-e3cdc967f56e
 
 ---
 # 🛹 Hoverboard Robot Control System (AMR)
-<img width="500" height="500" alt="i (2)" src="https://github.com/user-attachments/assets/4ede4479-8892-49c6-938d-3c937733c7f5" />
 
 
 **Тип:** Инженерный проект  
@@ -245,6 +244,11 @@ https://github.com/user-attachments/assets/81a3c3f3-e4e3-4b23-a534-e3cdc967f56e
 - Интеграция **Raspberry Pi 4** и **ROS2 Humble**
 - Подключение **RPLIDAR A1** для SLAM
 - Автономная навигация в неизвестной среде (**SLAM Toolbox + Nav2**)
+
+---
+
+
+<img width="500" height="500" alt="i (2)" src="https://github.com/user-attachments/assets/4ede4479-8892-49c6-938d-3c937733c7f5" />
 
 ---
 
