@@ -1,4 +1,3 @@
-
 # 🤖 Университетские проекты
 
 ## 📂 Содержание
@@ -30,6 +29,15 @@
 **Статус:** ✅ Работающий прототип
 
 ---
+
+
+<img width="450" height="300" alt="i (9)" src="https://github.com/user-attachments/assets/c90709c6-118f-44b7-86f4-6ffbb6fc11e6" />
+
+
+---
+
+
+
 
 ### 🎯 Краткое описание
 
@@ -267,7 +275,7 @@
 
 
 <img width="300" height="300" alt="i" src="https://github.com/user-attachments/assets/9319ec9b-1e6d-435e-8bbe-40a2e96b5ca5" />
-<img width="300" height="300<img width="1920" height="1440" alt="i (3)" src="https://github.com/user-attachments/assets/4c14f147-d6bf-4c97-8368-97ac1bcc177f" />
+<img width="300" height="300" alt="i (1)" src="https://github.com/user-attachments/assets/5ed9cbec-76f5-4bd5-80be-80236b34b18d" />
 
 
 
@@ -491,8 +499,9 @@ https://github.com/user-attachments/assets/81a3c3f3-e4e3-4b23-a534-e3cdc967f56e
 
 ---
 
-https://github.com/user-attachments/assets/46e2dc98-79e8-42c5-923e-9e6768f43c3b
+<img width="750" height="300" src="https://github.com/user-attachments/assets/5ec3051a-c9ab-465d-8567-db418f954d76" />
 
+*Построение 2D-карты в коридоре (30 м)*
 
 ---
 
@@ -582,3 +591,7 @@ https://github.com/user-attachments/assets/46e2dc98-79e8-42c5-923e-9e6768f43c3b
 | **Оптимизация параметров SLAM** | Точность картографии |
 
 ---
+
+### 🎥 Видео
+
+https://github.com/user-attachments/assets/46e2dc98-79e8-42c5-923e-9e6768f43c3b
