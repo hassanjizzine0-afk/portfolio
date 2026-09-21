@@ -46,11 +46,11 @@
 ---
 
 ## 🛠️ Технологии
-
 | Технология | |
 |------------|--|
 | Linux (Ubuntu) | ✅ |
 | Docker | ✅ |
+| Git | ✅ |
 | ROS1 / ROS2 | ✅ |
 | SLAM (Hector, GMapping, SLAM Toolbox) | ✅ |
 | Gazebo | ✅ |
@@ -59,9 +59,8 @@
 | C++ | ✅ |
 | Python | ✅ |
 | MATLAB | ✅ |
-
 ---
 
 ## 📫 Контакты
 
-- **Email:hassanjizzine0@gmail.com
+- Email:hassanjizzine0@gmail.com
