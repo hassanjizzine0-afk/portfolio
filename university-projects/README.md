@@ -267,7 +267,6 @@
 
 <img width="300" height="300" alt="i" src="https://github.com/user-attachments/assets/9319ec9b-1e6d-435e-8bbe-40a2e96b5ca5" />
 <img width="300" height="300<img width="1920" height="1440" alt="i (3)" src="https://github.com/user-attachments/assets/4c14f147-d6bf-4c97-8368-97ac1bcc177f" />
-" alt="i (1)" src="https://github.com/user-attachments/assets/db77ba18-068b-45d7-9756-044aef7185f8" />
 
 
 
