@@ -443,20 +443,6 @@ https://github.com/user-attachments/assets/81a3c3f3-e4e3-4b23-a534-e3cdc967f56e
 4. **Настроил визуализацию в RViz** и управление через `teleop`
 5. **Развернул всё в Docker** — с пробросом USB, GUI и сети
 
----
-
-### 🛠️ Технологии
-
-| Технология | |
-|------------|---|
-| ROS Noetic | ✅ |
-| Gazebo | ✅ |
-| URDF / Xacro | ✅ |
-| Gmapping | ✅ |
-| RViz | ✅ |
-| Teleop | ✅ |
-| Docker | ✅ |
-| Linux (Ubuntu) | ✅ |
 
 ---
 
@@ -545,19 +531,6 @@ https://github.com/user-attachments/assets/81a3c3f3-e4e3-4b23-a534-e3cdc967f56e
 5. **Оптимизировал параметры SLAM** для ручного сканирования
 6. **Обеспечил визуализацию карты** в реальном времени в RViz
 
----
-
-### 🛠️ Технологии
-
-| Технология | |
-|------------|---|
-| ROS Noetic | ✅ |
-| RPLIDAR A1 | ✅ |
-| rplidar_ros (драйвер) | ✅ |
-| Hector SLAM | ✅ |
-| TF (Transform System) | ✅ |
-| RViz | ✅ |
-| Linux (Ubuntu) | ✅ |
 
 ---
 
