@@ -250,12 +250,6 @@
 
 ---
 
-## 🎥 Видео и фото
-
-![Платформа hoverboard-робота](https://github.com/hassanjizzine0-afk/hoverboard-control-/blob/main/photo0089704_M2.jpg)
-
----
-
 
 
 
