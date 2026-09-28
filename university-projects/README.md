@@ -262,6 +262,9 @@
 
 ## 5-DOF Parallel Robot Control System
 
+<img width="402" height="433" alt="1" src="https://github.com/user-attachments/assets/91b4216f-01c6-4b8b-a779-fcea22c47849" />
+
+
 **Тип:** Курсовой проект, МГТУ им. Н.Э. Баумана  
 **Роль:** Интеграция всей системы — от GUI до управления моторами  
 **Команда:** 3 человека  
