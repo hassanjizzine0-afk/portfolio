@@ -52,9 +52,9 @@
 | Docker | ✅ |
 | Git | ✅ |
 | ROS1 / ROS2 | ✅ |
-| SLAM (Hector, GMapping, SLAM Toolbox) | ✅ |
+| SLAM (Hector, GMapping, SLAM Toolbox ... ) | ✅ |
 | Gazebo | ✅ |
-| ПЛК (Ladder, WPLSoft, TIA Portal) | ✅ |
+| ПЛК (Ladder, WPLSoft, TIA Portal ... ) | ✅ |
 | Modbus, Profinet, OPC UA | ✅ |
 | C++ | ✅ |
 | Python | ✅ |
