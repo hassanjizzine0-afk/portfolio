@@ -176,7 +176,7 @@
 **Оборудование:** FANUC R-2000iB/210F  
 **Статус:** ✅ Завершён
 
----
+
 <img width="300" height="430" alt="i (10)" src="https://github.com/user-attachments/assets/255835f6-b6c8-471c-bdb7-f5e8c602c36d" />
 
 
