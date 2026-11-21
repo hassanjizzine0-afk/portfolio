@@ -24,4 +24,4 @@
 ---
 
 ### 🏆 Мой диплом (2-е место)
-<img width="600" alt="Диплом за 2-е место" src="[ВСТАВЬ_ССЫЛКУ_НА_ФОТО_ДИПЛОМА]" />
+<img width="300" height="450" alt="i" src="https://github.com/user-attachments/assets/8018625e-2231-4eac-b820-63428a92ee5c" />
